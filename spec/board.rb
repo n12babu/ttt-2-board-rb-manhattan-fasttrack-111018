@@ -1,5 +1,5 @@
 # Define the variable board below.
-def board ();
+def board ['1', '2', '3']
 
 
 
